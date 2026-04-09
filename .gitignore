@@ -1,0 +1,13 @@
+# Environment files — never commit these
+.env
+*.env
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Cursor AI
+.cursor/
